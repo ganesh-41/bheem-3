@@ -1,0 +1,77 @@
+/* Styles for phones (up to 767px wide) */
+@media only screen and (max-width: 767px) {
+    
+    .lone-img{
+        margin-top: 1rem;
+        height: 70px;
+        width: 150px;
+        margin-left: .5rem;
+    }
+    .search{
+display: none;
+    }
+    
+    .cart-icon{
+     display: none;
+    }
+  
+.back-bg{
+    background-color: rgb(7, 7, 72);
+    color: #fff;
+    height: 600px;
+}
+.testimonial{
+    height: 300px;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    border-radius: 1rem;
+    text-transform: uppercase;
+}
+.lone-1{
+    margin-top: 1rem;
+}
+.Crypto{
+    font-weight: bolder;
+    font-size: 2.5rem;
+    margin-left: 2rem;
+}
+.Reaching{
+margin-top: 1rem;
+    margin-left: 2rem;
+}
+.btn{
+    background-color: rgb(98, 19, 172);
+    margin-left: 2rem;
+    color: #fff;
+    border-radius: 20px ;
+    text-transform: capitalize;
+}
+.btn:hover{
+    background-color:olive;
+    margin-left: 2rem;
+    color: #fff;
+    border-radius: 20px ;
+    text-transform: capitalize;
+}
+
+
+.row-ji{
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+.one-bg{
+    background-color: #f2f9ff;
+
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-right: 3rem;
+    margin-top: 2rem;
+   }
+
+   .bg-back{
+    background-color: #95f0b5;
+    height: 400px;
+    
+}
+  }
+  
